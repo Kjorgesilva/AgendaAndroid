@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.Toolbar
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/toolbar"
+    android:layout_height="wrap_content"
+    android:id="@+id/toolbar"
+    app:titleTextColor="@color/white"
+    app:theme="@style/ToolbarColoredBackArrow">
+
+    <!--coloca esse comando no styles.xml... para funcionar o toolbar-->
+    <!--<style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">-->
+</android.support.v7.widget.Toolbar>
